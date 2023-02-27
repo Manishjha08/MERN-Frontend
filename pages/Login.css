@@ -1,0 +1,14 @@
+.Container {
+    background-color: aqua;
+    border-radius: 50px;
+}
+.login__bg {
+  
+        background-image: url(C:\Users\Admin\Desktop\chit-chat\chit-chat-frontened\src\images\background.jpg);
+        height: 92vh;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        overflow-x: hidden;
+        align-items: center;
+    }
